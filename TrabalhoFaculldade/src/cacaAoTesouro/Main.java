@@ -5,7 +5,7 @@ package cacaAoTesouro;
  * Disciplina: Estrutura de Dados
  * Professora: Karina Leite
  *
- * Integrante 1: Ana Jaqueline Gomes Souza dos Santos - Matrícula
+ * Integrante 1: Ana Jaqueline Gomes Souza dos Santos - 200040523
  * Integrante 2: Yasmin Morais Melo Lima Pereira - 200040408
  */
 
